@@ -1,0 +1,44 @@
+***************************************************************************************
+/*JPA CRUD Operation-Output*/
+
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+
+ID:100 Name:Sachin
+ID:100 Name:Sachin Tendulkar
+End of program...
+***************************************************************************************
+/*JPA-Starter Output*/
+
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Added one student to database.
+
+***************************************************************************************
+/*JPA-Queries*/
+
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+
+************Listing total number of books*************
+Total books:6
+************Listing book with id 105*************
+Boo with ID 106:Book [id=105, title=Java EE 7: The Big Picture, author=Danny Coward, price=340.0]
+************Listing All books*************
+Book [id=101, title=Java Closures and Lambda, author=Robert Fischer, price=460.0]
+Book [id=102, title=Pro Java 8 Programming, author=Brett Spell, price=600.0]
+Book [id=103, title=Java for Android, Second Edition, author=Budi Kurniawan, price=680.0]
+Book [id=105, title=Java EE 7: The Big Picture, author=Danny Coward, price=340.0]
+Book [id=104, title=Java: The Complete Reference, Ninth Edition, author=Herbert Schildt, price=700.0]
+Book [id=106, title=Beginning Java with WebSphere, author=Robert W. Janson, price=550.0]
+************Listing book written by Danny Coward*************
+Book [id=105, title=Java EE 7: The Big Picture, author=Danny Coward, price=340.0]
+************Listing book on Android*************
+Book [id=103, title=Java for Android, Second Edition, author=Budi Kurniawan, price=680.0]
+************Listing All books between 500 and 600*************
+Book [id=102, title=Pro Java 8 Programming, author=Brett Spell, price=600.0]
+Book [id=106, title=Beginning Java with WebSphere, author=Robert W. Janson, price=550.0]
+*******************************************************************************************
